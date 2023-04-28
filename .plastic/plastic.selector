@@ -1,0 +1,4 @@
+repository "Voxel game@SinerjiSoftGame@cloud"
+  path "/"
+    br "/main"
+    co "/main"
